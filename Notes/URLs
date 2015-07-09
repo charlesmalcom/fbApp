@@ -1,0 +1,46 @@
+<?php
+
+//Dashboard
+https://developers.facebook.com/apps/815784798517521/dashboard/
+https://developers.facebook.com/docs/plugins/login-button
+https://developers.facebook.com/docs/reference/php/facebook-getLogoutUrl/4.0.0
+https://developers.facebook.com/tools-and-support/
+
+//http://findmyfacebookid.com/
+//https://www.facebook.com/help/community/question/?id=378910098941520
+
+//logout
+https://safeeronline.wordpress.com/2013/03/16/facebook-php-sdk-logout-issue-solved/
+http://mc2j.com/fix-facebook-php-sdk-logout-getlogouturl
+https://cacovsky.wordpress.com/2011/05/17/login-with-facebook-php-sdk-a-tutorial/
+http://stackoverflow.com/questions/10366366/facebook-php-sdk-will-not-logout-properly   [ this one ]
+
+//facebook4j
+http://facebook4j.org/en/code-examples.html
+
+//FB Bootstrap
+http://ckrack.github.io/fbootstrapp/
+
+//$facebook
+https://www.sammyk.me/best-practice-for-facebook-login-with-the-javascript-sdk-and-php-sdk-v4-1
+
+//5.0 APi
+http://benmarshall.me/facebook-php-sdk-v5/
+
+//Graph Explorer
+https://developers.facebook.com/tools/explorer?method=GET&path=me%3Ffields%3Dvideos&
+
+//Permissions
+https://developers.facebook.com/docs/facebook-login/permissions/v2.3#permission-publish_pages
+
+//output formatting
+http://stackoverflow.com/questions/10668934/is-the-output-of-the-php-facebook-api-json-parsable
+http://callmenick.com/post/displaying-a-custom-facebook-page-feed
+
+//post as your page
+http://www.adweek.com/socialtimes/acting-as-page-mobile-app/431562
+http://www.sitepoint.com/using-facebook-as-your-page/
+http://stackoverflow.com/questions/5217637/how-to-post-from-facebook-app-to-facebook-page
+
+//post as page
+http://stackoverflow.com/questions/4055440/facebook-graph-api-php-sdk-posting-on-page-as-page

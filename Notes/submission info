@@ -1,0 +1,42 @@
+publish_pages
+1.  go to URL
+2.  click on the FB connect image, may need to click more than once (idk yet)
+3.  accept the FB app
+4. go to 'Posts' and click on any of the create pages.
+    when a post is successful, you can go to 'Posts' and choose on of the read pages to verify.
+5. (opt) click on any of the other pages for additional info.
+6. click on logout to logout.
+
+
+
+manage_pages
+1.  go to URL
+2.  click on the FB connect image, may need to click more than once (idk yet)
+3.  accept the FB app
+4. go to 'Posts' and then either read Video & read links., you can then update or delete post.
+    when a post is successful, you can go to 'Posts' and choose on of the read pages to verify.
+5. (opt) click on any of the other pages for additional info.
+6. click on logout to logout.
+
+
+/*
+ * FB Notes
+ ************/
+//Notes from our review team
+Web
+Hi,
+After I clicked on the Facebook login and authorized the login and permissions, I did not see my information on the app.
+Can you check to see if your app is working properly and then resubmit? 
+
+
+//Web
+Your app's Facebook Login button does not work. Please make sure the provided test user can successfully and consistently log in with the Facebook Login button. See more about authentication. 
+
+
+
+Other notes, your last notes say...
+"After I clicked on the Facebook login and authorized the login and permissions, I did not see my information on the app.
+Can you check to see if your app is working properly and then resubmit? "
+
+I have verified, using another account, that My App will show the current user's info. 
+And, using My App on my computer/server, I can still post to my business page with My App. Although, I will need to ask permissions (which is why i am here) for others to do the same.
